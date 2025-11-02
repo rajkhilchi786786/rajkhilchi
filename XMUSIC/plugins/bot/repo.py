@@ -4,7 +4,7 @@ from XMUSIC import app
 from config import BOT_USERNAME
 
 repo_caption = """**
-🚀 ᴄʟᴏɴᴇ ᴀɴᴅ ᴅᴇᴘʟᴏʏ – 𝐀ᴅɪᴛʏᴀ 𝐂ᴏᴅᴇʀ ʀᴇᴘᴏ 🚀
+🚀 ᴄʟᴏɴᴇ ᴀɴᴅ ᴅᴇᴘʟᴏʏ – ⭕ғͥғɪᴄͣɪͫ͢͢͢ᴀℓ 🇷 AJ 𝐂ᴏᴅᴇʀ ʀᴇᴘᴏ 🚀
 
 ➤ ᴅᴇᴘʟᴏʏ ᴇᴀsɪʟʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴇʀʀᴏʀꜱ  
 ➤ ɴᴏ ʜᴇʀᴏᴋᴜ ʙᴀɴ ɪꜱꜱᴜᴇ  
@@ -20,12 +20,12 @@ async def show_repo(_, msg):
     buttons = [
         [InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✨", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
         [
-            InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="https://t.me/Adityaji3"),
-            InlineKeyboardButton("💬 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/Xmusicsupport")
+            InlineKeyboardButton("👑 ᴏᴡɴᴇʀ", url="https://t.me/RAJOWNER20"),
+            InlineKeyboardButton("💬 ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/anniemusicsupport")
         ],
         [
-            InlineKeyboardButton("🛠️ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/Xmusicsupport1"),
-            InlineKeyboardButton("🎵 ɢɪᴛʜᴜʙ", url="https://github.com/adityabty/music")
+            InlineKeyboardButton("🛠️ ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/anniemusicsupport"),
+            InlineKeyboardButton("🎵 ɢɪᴛʜᴜʙ", url="https://t.me/anniemusicsupport")
         ]
     ]
 
